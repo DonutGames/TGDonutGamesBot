@@ -1,1 +1,1 @@
-web: python TGDonutGamesBot.py
+app: python TGDonutGamesBot.py
